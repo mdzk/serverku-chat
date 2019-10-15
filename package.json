@@ -1,0 +1,15 @@
+{
+  "name": "iochat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Yulianto",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
